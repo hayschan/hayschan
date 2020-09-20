@@ -10,9 +10,9 @@ I love photography📸, filmmaking🎬, and gaming🎮.
 I love sports 🌊:
 1. Sailing Level 2 ⛵️
 2. Kayak 3 Star Award 🛶
-3. Basic Windsurfing 🏄‍♀️
-4. Open Water Diver 🤿
-5. Table Tennis 🏓 third runner-up
+3. Experienced Windsurfer 🏄‍♀️
+4. Qualified Open Water Diver 🤿
+5. Table Tennis 🏓 champion
 6. Chinese Chess ♘ two-time team champion and  one-time singles champion
 7. Chess ♟ fourth runner-up
 
