@@ -16,3 +16,8 @@ I love sports 🌊:
 6. Chinese Chess ♘ two-time team champion and  one-time singles champion
 7. Chess ♟ fourth runner-up
 
+I love to experiment myself with various activities. Here are more of them:
+
+- Mandarin Speech four-time champion
+- English Speech two-time champion
+- Tai chi ☯️ Bronze Medal
