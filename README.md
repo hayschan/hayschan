@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi! I'm Hays Chan 👨🏻‍💻, a Computer Science sophomore at Peking University. I have good understanding in electronics⚡️, networking🖥, and programming⌨️. I love photography📸, filmmaking🎬, and gaming🎮.
+
+I love sports 🌊. Here are my qualifications(best results):
+
 <!--
 **hayschan/hayschan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
