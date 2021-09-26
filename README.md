@@ -8,9 +8,10 @@
 - ⚡ C++ / Python.
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
   - 《[用播客客户端订阅 YouTube](https://sspai.com/post/63112)》
-- ✍️ Blogger at [my blog](https://haysc.tech)
+  - 《[这款简单、易上手的跨平台传输工具，可能是 AirDrop 的最佳替代品](https://sspai.com/post/67112)》
+  - 《[不想被回忆「补刀」，从调校相册推荐算法开始](https://sspai.com/post/68911)》
+- ✍️ [My blog](https://haysc.tech)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
-- 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
 
 
